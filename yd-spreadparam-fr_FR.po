@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yann Dubois <yann@abc.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# YD SPREAD PARAMETER.
+# Copyright (C) 2010 yann.com
+# This file is distributed under the same license as the yd-spread-parameter package.
+# FIRST AUTHOR <yann@abc.fr>, 2010.
+# <a href="http://wordpress.org/tag/yd-spread-parameter">
+#
+#: yd-spread-parameter.php:82
+#: yd-spread-parameter.php:84
+#: yd-spread-parameter.php:114
+msgid "YD Spread Parameters Settings"
+msgstr "Réglages YD Spread Parameter"
+
+#: yd-spread-parameter.php:95
+msgid "This will disable the link in your blog footer. If you are using this plugin on your site and like it, did you consider making a donation? -- Thanks."
+msgstr "Ceci va désactiver le lien en bas de page. Puisque vous utilisez ce plugin sur votre site et que vous l'appréciez, avez-vous envisagé de faire un don ? -- Merci."
+
+#: yd-spread-parameter.php:119
+msgid "Action:"
+msgstr "Action :"
+
+#: yd-spread-parameter.php:120
+msgid "I should now"
+msgstr "Je dois maintenant faire :"
+
+#: yd-spread-parameter.php:124
+#: yd-spread-parameter.php:154
+#: yd-spread-parameter.php:326
+msgid "Reset plugin settings"
+msgstr "RAZ des réglages du plugin"
+
+#: yd-spread-parameter.php:162
+msgid "Plugin settings are reset"
+msgstr "Les réglages sont réinitialisés"
+
+#: yd-spread-parameter.php:127
+#: yd-spread-parameter.php:316
+msgid "Update plugin settings"
+msgstr "MAJ des réglages"
+
+#: yd-spread-parameter.php:131
+msgid "New parameter added"
+msgstr "Nouveau paramètre ajouté"
+
+#: yd-spread-parameter.php:133
+msgid "Plugin settings are updated"
+msgstr "Les réglages du plugin sont à jour"
+
+#: yd-spread-parameter.php:136
+msgid "Parameter deleted"
+msgstr "Paramètre effacé"
+
+#: yd-spread-parameter.php:143
+msgid "Welcome to the YD Spread Parameter Settings Page."
+msgstr "Bienvenue dans la page d'administration de YD Spread Parameter"
+
+#: yd-spread-parameter.php:152
+msgid "Uh-oh. Looks like I lost my settings. Sorry."
+msgstr "Oh-oh, on dirait que j'ai perdu mes options. Désolé."
+
+#: yd-spread-parameter.php:172
+msgid "Considered donating?"
+msgstr "Envisagé de faire un don&nbsp;?"
+
+#: yd-spread-parameter.php:176
+msgid "Enjoy this plugin?"
+msgstr "Vous appréciez ce plugin&nbsp;?"
+
+#: yd-spread-parameter.php:176
+msgid "Help me improve it!"
+msgstr "Aidez-moi à l'améliorer&nbsp;!"
+
+#: yd-spread-parameter.php:181
+#: yd-spread-parameter.php:182
+msgid "en_US"
+msgstr "fr_FR"
+
+#: yd-spread-parameter.php:184
+msgid "Thanks"
+msgstr "Merci"
+
+#: yd-spread-parameter.php:191
+msgid "Disable backlink in the blog footer:"
+msgstr "Désactivation du lien en bas de page&nbsp;:"
+
+#: yd-spread-parameter.php:204
+msgid "Credits"
+msgstr "Crédits"
+
+#: yd-spread-parameter.php:206
+msgid "Initial funding"
+msgstr "Financement initial"
+
+#: yd-spread-parameter.php:208
+msgid "Translations"
+msgstr "Traductions"
+
+#: yd-spread-parameter.php:210
+msgid "English:"
+msgstr "Anglais&nbsp;:"
+
+#: yd-spread-parameter.php:211
+msgid "French:"
+msgstr "Français&nbsp;:"
+
+#: yd-spread-parameter.php:213
+msgid "If you want to contribute to a translation of this plugin, please drop me a line by "
+msgstr "Si vous voulez proposer une traduction de ce plugin, veuillez me contacter par "
+
+#: yd-spread-parameter.php:214
+msgid "e-mail"
+msgstr "courriel"
+
+#: yd-spread-parameter.php:215
+msgid "or leave a comment on the "
+msgstr "ou laissez un commentaire sur la "
+
+#: yd-spread-parameter.php:216
+msgid "plugin's page"
+msgstr "page du plugin"
+
+#: yd-spread-parameter.php:217
+msgid "You will get credit for your translation in the plugin file and the documentation page, "
+msgstr "Vous serez crédité pour votre traduction dans le fichier du plugin et sa page de documentation, "
+
+#: yd-spread-parameter.php:218
+msgid "as well as a link on this page and on my developers' blog."
+msgstr "et vous obtiendrez un lien sur cette page, et sur mon blog de développeur."
+
+#: yd-spread-parameter.php:228
+msgid "Free support"
+msgstr "Support gratuit"
+
+#: yd-spread-parameter.php:230
+msgid "Support page:"
+msgstr "Page de support&nbsp;:"
+
+#: yd-spread-parameter.php:231
+msgid "here."
+msgstr "ici."
+
+#: yd-spread-parameter.php:232
+msgid "(use comments!)"
+msgstr "(utilisez les commentaires&nbsp;!)"
+
+#: yd-spread-parameter.php:234
+msgid "Professional consulting"
+msgstr "Assistance professionnelle"
+
+#: yd-spread-parameter.php:235
+msgid "I am available as an experienced free-lance Wordpress plugin developer and web consultant. "
+msgstr "Je suis disponible en tant que développeur de plugins Wordpress expérimenté et consultant web. "
+
+#: yd-spread-parameter.php:236
+msgid "Please feel free to <a href=\"mailto:yann@abc.fr\">check with me</a> for any adaptation or specific implementation of this plugin. "
+msgstr "N'hésitez pas à <a href=\"mailto:yann@abc.fr\">me contacter</a> pour toute adaptation ou installation particulière de ce plugin. "
+
+#: yd-spread-parameter.php:237
+msgid "Or for any WP-related custom development or consulting work. Hourly rates available."
+msgstr "Ou pour tout développement sur mesure en rapport avec WP. Tarifs horaires disponibles."
+
+#: yd-spread-parameter.php:255
+msgid "Parameters to propagate:"
+msgstr "Paramètres à propager&nbsp;:"
+
+#: yd-spread-parameter.php:260
+msgid "Replicate these parameters site-wide:"
+msgstr "Appliquer ces paramètres à tout les liens du site&nbsp;:"
+
+#: yd-spread-parameter.php:278
+msgid "No parameter has been defined yet."
+msgstr "Aucun paramètre défini."
+
+#: yd-spread-parameter.php:278
+msgid "Add a parameter:"
+msgstr "Ajouter un paramètre&nbsp;:"
+
+#: yd-spread-parameter.php:292
+msgid "Other settings:"
+msgstr "Autres réglages&nbsp;:"
+
+#: yd-spread-parameter.php:305
+msgid "Spread to subdomains:"
+msgstr "Etendre aux sous-domaines&nbsp;:"
+
+#: yd-spread-parameter.php:316
+msgid "Show debug messages:"
+msgstr "Afficher les messages de débogage&nbsp;:"
+
